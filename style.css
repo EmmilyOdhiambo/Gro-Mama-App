@@ -1,0 +1,70 @@
+.heading{
+    /* text-align: center; */
+    margin-left: 8%;
+    color: var(--black);
+    text-transform: uppercase;
+    padding: 1rem;
+    font-size: 3.5rem;
+ }
+ #Cathy{
+    height: 12rem;
+    border-radius: 60%;
+}
+#Emmily{
+    height: 12rem;
+    border-radius: 60%;
+}
+#Essy{
+    height: 12rem;
+    border-radius: 60%;
+}
+#Victoria{
+    height: 12rem;
+    border-radius: 60%;
+}
+#Jem{
+    height: 12rem;
+    border-radius: 60%;
+}
+#Linet{
+    height: 12rem;
+    border-radius: 60%;
+}
+#vendor{
+    margin-right: 5%;
+    height: 30rem;
+    border-radius: 20px 30px ;
+}
+.DEvs{
+    display: flex;
+    gap: 1%;
+    /* margin-left: 1%; */
+}
+.DEvs p{
+    font-size: 15px;
+}
+h1{
+    font-size: 50px;
+    color:#2c2c54 ;
+    margin-left: 35%;
+}
+.about{
+    text-align: center;
+    color: orange;
+}
+.mama img{
+    border-radius: 10%;
+}
+.help{
+    display: flex;
+    padding: 5%;
+}
+.help p{
+    color:#2c2c54;
+    font-size: 20px;
+}
+.customer{
+    display: flex;
+    gap: 5%;
+    padding: 10%;
+}
